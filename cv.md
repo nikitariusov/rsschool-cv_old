@@ -1,6 +1,6 @@
 # **Nikita Usov**
 
-##**Contacts**
+## **Contacts**
 ***
 * **Location:** Dnipro, Ukraine
 * **Phone:** +38(066)-601-66-20
@@ -8,11 +8,11 @@
 * **GitHub:**  [nikitariusov](https://github.com/nikitariusov)
 * **Discord:** Nikita Usov (@nikitariusov)
 
-##**About Me**
+## **About Me**
 ***
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 
-##**Skills**
+## **Skills**
 ***
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 * Python 3 
@@ -21,7 +21,7 @@
 * CSS
 * Git
 
-##**Code Example**
+## **Code Example**
 ***
 ```
 from bs4 import BeautifulSoup
@@ -45,12 +45,12 @@ def pars_info(html_data):
         site = card.find('a', rel="nofollow", target="_blank")
 ```
 ***
-##**Experience**
+## **Experience**
 ***
-##**Education**
+## **Education**
 ***
 * University
 * Courses
 
-##**English**
+## **English**
 ***
